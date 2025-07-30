@@ -5,7 +5,7 @@
       "details": [
        {
          "appID": "12343434.com.sing.bathroomsinger",
-         "paths": [ "/fallback.html" ]
+         "paths": [ "*" ]
        }
      ]
   }
