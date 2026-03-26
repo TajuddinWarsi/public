@@ -3,7 +3,7 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.glut.glut",
+      "package_name": "com.glutthrymr.glut",
       "sha256_cert_fingerprints": [
         "45:9B:ED:CB:FD:D4:38:7C:28:19:FF:D7:6E:AF:A7:33:A4:76:67:9C:14:A6:8B:B6:D3:4C:61:DC:55:4C:4B:E5"
       ]
